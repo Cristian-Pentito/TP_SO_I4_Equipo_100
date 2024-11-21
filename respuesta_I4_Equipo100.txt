@@ -14,3 +14,9 @@ cambios propuestos. De esta manera los cambios realizados por cada integrante se
 H- Es un push forzado. Queda la version de GAMMA porque es el ultimo que realiza el push y sobreescribe
 los cambios anteriores.
 I- Resolvemos el conflicto fusionando las versiones. 
+BETA hace git pull para actualizar su version pero surgira un conflicto con el archivo html.
+Luego ingresa al archivo y escoge entre borrar el cambio, fusionarlos, mantener version actual.
+BETA fusiona los cambios y realiza un git push.
+GAMMA realiza los mismos pasos que BETA.
+
+
