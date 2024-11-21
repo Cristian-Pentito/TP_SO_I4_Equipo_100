@@ -11,4 +11,6 @@ E- BETA Y GAMMA rechazados al realizar push
 F- Hubo un conflicto de versiones. 
 G- Cada integrante involucrado actualiza su version con git pull, resuelve el conflicto fusionando los
 cambios propuestos. De esta manera los cambios realizados por cada integrante se suman al html.
-H- Es un push forzado. 
+H- Es un push forzado. Queda la version de GAMMA porque es el ultimo que realiza el push y sobreescribe
+los cambios anteriores.
+I- Resolvemos el conflicto fusionando las versiones. 
