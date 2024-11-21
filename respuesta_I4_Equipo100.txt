@@ -6,7 +6,6 @@ A- Blue
 B- Yellow
 C- Yellow
 D- El de ALFA, porque no pueden existir dos archivos con el mismo nombre.
-
 E- BETA Y GAMMA rechazados al realizar push
 F- Hubo un conflicto de versiones. 
 G- Cada integrante involucrado actualiza su version con git pull, resuelve el conflicto fusionando los
@@ -18,5 +17,4 @@ BETA hace git pull para actualizar su version pero surgira un conflicto con el a
 Luego ingresa al archivo y escoge entre borrar el cambio, fusionarlos, mantener version actual.
 BETA fusiona los cambios y realiza un git push.
 GAMMA realiza los mismos pasos que BETA.
-
 
