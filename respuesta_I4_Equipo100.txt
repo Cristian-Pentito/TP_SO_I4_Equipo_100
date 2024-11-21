@@ -5,4 +5,4 @@ Fernando Rivera
 A- Blue
 B- Yellow
 C- Yellow
-D- El de BETA
+D- El de ALFA, porque no pueden existir dos archivos con el mismo nombre.
