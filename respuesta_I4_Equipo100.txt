@@ -7,3 +7,8 @@ B- Yellow
 C- Yellow
 D- El de ALFA, porque no pueden existir dos archivos con el mismo nombre.
 
+E- BETA Y GAMMA rechazados al realizar push
+F- Hubo un conflicto de versiones. 
+G- Cada integrante involucrado actualiza su version con git pull, resuelve el conflicto fusionando los
+cambios propuestos. De esta manera los cambios realizados por cada integrante se suman al html.
+H- Es un push forzado. 
